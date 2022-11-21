@@ -1,0 +1,18 @@
+h1 {
+  font-size: 50px;
+}
+body {
+  font-family:'Courier New', Courier, monospace;
+  background-color: darkkhaki;
+}
+a:visited {
+  color:rgb(44, 65, 9);
+}
+img {
+  width: 500px;
+  height: auto;
+}
+.index {
+  text-align: center;
+  list-style-type: none;
+}
